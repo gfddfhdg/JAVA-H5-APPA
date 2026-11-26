@@ -1,4 +1,4 @@
-<img width="743" height="485" alt="3c022f20974d05c09ede83a4f2cf846e(1)" src="https://github.com/user-attachments/assets/d184fb47-b9a4-4e5b-88b6-4fb9ef05ab25" /># JAVA国际版扫码点餐在线下单系统源码支持H5 + APP
+# JAVA国际版扫码点餐在线下单系统源码支持H5 + APP
 
 源码地址：ym7k.com/20134/
 
